@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Route list</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="action_settings">Main Activity</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="username">Username</string>
+    <string name="forward">Prev</string>
+    <string name="next">Next</string>
+    <string name="email">Process command</string>
+    <string name="chart">Display chart</string>
+</resources>
